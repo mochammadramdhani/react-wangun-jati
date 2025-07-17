@@ -1,4 +1,4 @@
 export const CONFIG = {
-    BACKEND_URL: "http://localhost:3005/api",
-    TOKEN: "WJ_TOKEN",
-}
+  BACKEND_URL: "https://wangun-jati-backend.vercel.app/api",
+  TOKEN: "WJ_TOKEN",
+};
